@@ -15,7 +15,7 @@
 
 ## 🚀 What is BeamDrop?
 
-**BeamDrop** is a free, open-source peer-to-peer file transfer application designed to provide an Apple AirDrop-like experience across **Windows** and **Android**.
+**BeamDrop** is a free peer-to-peer file transfer application designed to provide an Apple AirDrop-like experience across **Windows** and **Android**.
 
 Unlike cloud drives (Google Drive, Dropbox, WeTransfer) or Bluetooth, BeamDrop operates **100% offline** over your local Wi-Fi or mobile hotspot. It transfers photos, 4K videos, zip files, and entire folders at physical network link speed (**80–120+ MB/s**) with **zero cloud uploads**, **zero data quota consumed**, and **zero tracking**.
 
