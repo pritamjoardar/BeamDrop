@@ -20,7 +20,9 @@
 Unlike cloud drives (Google Drive, Dropbox, WeTransfer) or Bluetooth, BeamDrop operates **100% offline** over your local Wi-Fi or mobile hotspot. It transfers photos, 4K videos, zip files, and entire folders at physical network link speed (**80–120+ MB/s**) with **zero cloud uploads**, **zero data quota consumed**, and **zero tracking**.
 
 ---
-
+<a href="https://beamdrop.pritamjoardar.com/">
+  <img src="https://raw.githubusercontent.com/pritamjoardar/BeamDrop/main/hero-banner.jpg" alt="BeamDrop Hero Banner" width="100%" />
+</a>
 ## 📥 Direct Downloads
 
 Download the latest version directly for your device:
